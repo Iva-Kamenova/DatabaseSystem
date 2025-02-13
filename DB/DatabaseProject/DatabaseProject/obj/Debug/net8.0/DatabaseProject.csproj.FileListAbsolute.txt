@@ -1,0 +1,98 @@
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.exe
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.deps.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.runtimeconfig.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.AssemblyInfoInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.AssemblyInfo.cs
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа\DatabaseProject\DatabaseProject\obj\Debug\net8.0\refint\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.genruntimeconfig.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа\DatabaseProject\DatabaseProject\obj\Debug\net8.0\ref\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.AssemblyInfoInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.AssemblyInfo.cs
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseProject\obj\Debug\net8.0\refint\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.exe
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.deps.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.runtimeconfig.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.genruntimeconfig.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseProject\obj\Debug\net8.0\ref\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.exe
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.deps.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.runtimeconfig.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.AssemblyInfoInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.AssemblyInfo.cs
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseProject\obj\Debug\net8.0\refint\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.genruntimeconfig.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseProject\obj\Debug\net8.0\ref\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.exe
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.deps.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.runtimeconfig.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.AssemblyInfoInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.AssemblyInfo.cs
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\refint\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.genruntimeconfig.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\ref\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.AssemblyInfoInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.AssemblyInfo.cs
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\refint\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.exe
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.deps.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.runtimeconfig.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.genruntimeconfig.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\ref\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.exe
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.deps.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.runtimeconfig.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.AssemblyInfoInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.AssemblyInfo.cs
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\refint\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.genruntimeconfig.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseProject\obj\Debug\net8.0\ref\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.exe
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.deps.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.runtimeconfig.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.AssemblyInfoInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.AssemblyInfo.cs
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseProject\obj\Debug\net8.0\refint\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.genruntimeconfig.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseProject\obj\Debug\net8.0\ref\DatabaseProject.dll

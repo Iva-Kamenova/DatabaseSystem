@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DatabaseWinForm/1.0.0": {
+        "dependencies": {
+          "DatabaseProject": "1.0.0"
+        },
+        "runtime": {
+          "DatabaseWinForm.dll": {}
+        }
+      },
+      "DatabaseProject/1.0.0": {
+        "runtime": {
+          "DatabaseProject.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DatabaseWinForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DatabaseProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

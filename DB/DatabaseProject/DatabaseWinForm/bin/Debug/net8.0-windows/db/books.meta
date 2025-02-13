@@ -1,0 +1,4 @@
+bookID Int
+title String DEFAULT Unknown Title
+author String DEFAULT Unknown Author
+publishedDate Date

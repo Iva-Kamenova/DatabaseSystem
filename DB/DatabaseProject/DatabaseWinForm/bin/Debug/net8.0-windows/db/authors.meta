@@ -1,0 +1,3 @@
+authorID Int
+name String DEFAULT Unknown Author
+numberOfBooks Int DEFAULT 1

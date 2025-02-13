@@ -1,0 +1,3 @@
+readerID Int
+name String DEFAULT Unknown Reader
+membershipDate Date DEFAULT 01.01.2022

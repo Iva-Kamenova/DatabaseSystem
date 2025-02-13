@@ -1,0 +1,138 @@
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.deps.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.runtimeconfig.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.exe
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.exe
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.deps.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.runtimeconfig.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.csproj.AssemblyReference.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.Form1.resources
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.csproj.GenerateResource.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.AssemblyInfoInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.AssemblyInfo.cs
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.csproj.CoreCompileInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\Database.02136703.Up2Date
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\refint\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.genruntimeconfig.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (2)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\ref\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.deps.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.runtimeconfig.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.exe
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.exe
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.deps.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.runtimeconfig.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.csproj.AssemblyReference.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.Form1.resources
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.csproj.GenerateResource.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.AssemblyInfoInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.AssemblyInfo.cs
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.csproj.CoreCompileInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\Database.02136703.Up2Date
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\refint\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.genruntimeconfig.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\ref\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.deps.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.runtimeconfig.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.exe
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.exe
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.deps.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.runtimeconfig.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.csproj.AssemblyReference.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.Form1.resources
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.csproj.GenerateResource.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.AssemblyInfoInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.AssemblyInfo.cs
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.csproj.CoreCompileInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\Database.02136703.Up2Date
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\refint\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.genruntimeconfig.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\ref\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.deps.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.runtimeconfig.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.exe
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.exe
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.deps.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.runtimeconfig.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.csproj.AssemblyReference.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.Form1.resources
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.csproj.GenerateResource.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.AssemblyInfoInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.AssemblyInfo.cs
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.csproj.CoreCompileInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\Database.02136703.Up2Date
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\refint\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.genruntimeconfig.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – Копие – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\ref\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.deps.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.runtimeconfig.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.exe
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.exe
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.deps.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.runtimeconfig.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.csproj.AssemblyReference.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.Form1.resources
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.csproj.GenerateResource.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.AssemblyInfoInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.AssemblyInfo.cs
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.csproj.CoreCompileInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\Database.02136703.Up2Date
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\refint\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.genruntimeconfig.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Копие (3) – 15.12 – КопиеПОСЛЕДНО !! – Копие\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\ref\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.deps.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.runtimeconfig.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.exe
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.exe
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.deps.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.runtimeconfig.json
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseWinForm.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\bin\Debug\net8.0-windows\DatabaseProject.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.csproj.AssemblyReference.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.Form1.resources
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.csproj.GenerateResource.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.AssemblyInfoInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.AssemblyInfo.cs
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.csproj.CoreCompileInputs.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\Database.02136703.Up2Date
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\refint\DatabaseWinForm.dll
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.pdb
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\DatabaseWinForm.genruntimeconfig.cache
+C:\Users\ivaka\OneDrive\Работен плот\САА - Курсова работа – Ива Бонева (финален)\DatabaseProject\DatabaseWinForm\obj\Debug\net8.0-windows\ref\DatabaseWinForm.dll
